@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20Yihyun's%20GitHub&fontSize=50&animation=twinkling" alt="header"/>
 </div>
 
-# 👋 안녕하세요! 신입 Full-Stack 개발자입니다.
-
 프론트엔드부터 백엔드까지 두루 경험하며, React.js와 Python을 중심으로 성장하고 있는 신입 개발자입니다. 작지만 꾸준한 시도와 학습을 통해 더 나은 코드를 지향하고 있습니다.
 
 ## 📌 대표 프로젝트
