@@ -7,7 +7,7 @@
 ## 📌 대표 프로젝트
 자세한 내용은 README 하단의 [pinned repositories](#)를 참고해주세요.
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+##✨ Tech Stack ✨
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
