@@ -6,6 +6,9 @@
 
 프론트엔드부터 백엔드까지 두루 경험하며, React.js와 Python을 중심으로 성장하고 있는 신입 개발자입니다. 작지만 꾸준한 시도와 학습을 통해 더 나은 코드를 지향하고 있습니다.
 
+## 📌 대표 프로젝트
+자세한 내용은 [pinned repositories](#)를 참고해주세요.
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
