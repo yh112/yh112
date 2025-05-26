@@ -2,10 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20Yihyun's%20GitHub&fontSize=50&animation=twinkling" alt="header"/>
 </div>
 
-프론트엔드부터 백엔드까지 두루 경험하며, React.js와 Python을 중심으로 성장하고 있는 신입 개발자입니다. 작지만 꾸준한 시도와 학습을 통해 더 나은 코드를 지향하고 있습니다.
+안녕하세요. 프론트엔드부터 백엔드까지 두루 경험하며, JavaScript와 Python을 중심으로 성장하고 있는 풀스택 개발자입니다. 작지만 꾸준한 시도와 학습을 통해 더 나은 코드를 지향하고 있습니다.
 
 ## 📌 대표 프로젝트
-자세한 내용은 [pinned repositories](#)를 참고해주세요.
+자세한 내용은 README 하단의 [pinned repositories](#)를 참고해주세요.
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
