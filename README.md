@@ -30,9 +30,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <br>
+</div>
 
   ## 🔥 앞으로의 목표
 - 다양한 기술 스택 경험 쌓기
 - 협업과 커뮤니케이션 능력 강화
 - 꾸준한 성장과 기록
-</div>
